@@ -1,5 +1,5 @@
 # DeepChat
-[Messenger](http://www.technologynewsextra.com/wp-content/uploads/2016/11/Facebook-Messenger%E2%80%99s-New-Update-Available.jpg)
+![Messenger](http://www.technologynewsextra.com/wp-content/uploads/2016/11/Facebook-Messenger%E2%80%99s-New-Update-Available.jpg)
 Welcome to a FB messenger chatbot that we accept has little practical value but is pretty cool to just watch! 
 
 ## How to Use
